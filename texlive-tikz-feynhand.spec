@@ -1,6 +1,6 @@
 Name:		texlive-tikz-feynhand
 Version:	51915
-Release:	1
+Release:	2
 Summary:	Feynman diagrams with TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-feynhand
